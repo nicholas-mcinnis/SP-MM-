@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the social impact of community-based Microcredit: A consulting mandate with Microcredit Montreal"
 author: "Nicholas McInnis"
-date: '2022-01-21'
+date: 'HEC Montreal'
 output: beamer_presentation
 ---
 
